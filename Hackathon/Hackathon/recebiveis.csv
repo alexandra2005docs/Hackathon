@@ -1,0 +1,4 @@
+
+nomeFundo;docFundo;nomeCedente;docCedente;nomeSacado;docSacado;nuDocumento;tipoRecebivel;valorNominal;dataVencimentoOriginal;dataAquisicao
+Fundo A;123456;Empresa B;789012;Cliente C;345678;DOC001;Duplicata;1500.50;2026-12-10;2026-10-01
+Fundo D;456789;Empresa E;123789;Cliente F;567123;DOC002;Nota Fiscal;2500.00;2027-01-15;2026-10-05
